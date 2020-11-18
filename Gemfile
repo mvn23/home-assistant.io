@@ -5,7 +5,7 @@ ruby "> 2.3.0"
 group :development do
   gem 'rake', '~> 10.0'
   gem 'jekyll', '~> 3.0'
-  gem 'compass', '~> 0.12'
+  gem 'compass', '~> 1.0'
   gem 'sass-globbing', '~> 1.0'
   gem 'stringex', '~> 1.4'
   gem 'pry'
